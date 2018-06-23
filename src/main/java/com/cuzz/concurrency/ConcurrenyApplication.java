@@ -9,4 +9,5 @@ public class ConcurrenyApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ConcurrenyApplication.class, args);
 	}
+
 }
