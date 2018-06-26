@@ -1,8 +1,6 @@
-package com.cuzz.concurrency.singleton;
+package com.cuzz.concurrency.example.singleton;
 
-import com.cuzz.concurrency.annoations.NotRecommend;
-import com.cuzz.concurrency.annoations.NotThreadSafe;
-import com.cuzz.concurrency.annoations.ThreadSafe;
+import com.cuzz.concurrency.example.annoations.NotThreadSafe;
 
 /**
  * 懒汉模式 双重锁同步单例模式

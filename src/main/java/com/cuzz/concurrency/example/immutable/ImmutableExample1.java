@@ -1,4 +1,4 @@
-package com.cuzz.concurrency.immutable;
+package com.cuzz.concurrency.example.immutable;
 
 import java.util.HashMap;
 import java.util.Map;

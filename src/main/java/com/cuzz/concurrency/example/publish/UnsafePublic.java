@@ -1,4 +1,4 @@
-package com.cuzz.concurrency.publish;
+package com.cuzz.concurrency.example.publish;
 
 import lombok.extern.slf4j.Slf4j;
 

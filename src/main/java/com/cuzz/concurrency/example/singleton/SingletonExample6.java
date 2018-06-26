@@ -1,6 +1,6 @@
-package com.cuzz.concurrency.singleton;
+package com.cuzz.concurrency.example.singleton;
 
-import com.cuzz.concurrency.annoations.ThreadSafe;
+import com.cuzz.concurrency.example.annoations.ThreadSafe;
 
 /**
  * 饿汉模式

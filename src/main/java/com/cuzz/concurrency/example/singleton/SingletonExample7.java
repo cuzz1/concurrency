@@ -1,7 +1,7 @@
-package com.cuzz.concurrency.singleton;
+package com.cuzz.concurrency.example.singleton;
 
-import com.cuzz.concurrency.annoations.Recommend;
-import com.cuzz.concurrency.annoations.ThreadSafe;
+import com.cuzz.concurrency.example.annoations.Recommend;
+import com.cuzz.concurrency.example.annoations.ThreadSafe;
 
 /**
  * 枚举模式：最安全的

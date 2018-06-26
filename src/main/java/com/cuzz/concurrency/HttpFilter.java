@@ -1,8 +1,7 @@
 package com.cuzz.concurrency;
 
-import com.cuzz.concurrency.threadLocal.RequestHolder;
+import com.cuzz.concurrency.example.threadLocal.RequestHolder;
 import lombok.extern.slf4j.Slf4j;
-import org.springframework.http.HttpRequest;
 
 import javax.servlet.*;
 import javax.servlet.http.HttpServletRequest;

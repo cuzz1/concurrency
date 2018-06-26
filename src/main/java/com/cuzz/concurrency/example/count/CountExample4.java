@@ -1,6 +1,6 @@
 package com.cuzz.concurrency.example.count;
 
-import com.cuzz.concurrency.annoations.NotThreadSafe;
+import com.cuzz.concurrency.example.annoations.NotThreadSafe;
 import lombok.extern.slf4j.Slf4j;
 
 import java.util.concurrent.CountDownLatch;

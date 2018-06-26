@@ -1,7 +1,7 @@
-package com.cuzz.concurrency.immutable;
+package com.cuzz.concurrency.example.immutable;
 
 
-import com.cuzz.concurrency.annoations.ThreadSafe;
+import com.cuzz.concurrency.example.annoations.ThreadSafe;
 
 import java.util.Collections;
 import java.util.HashMap;

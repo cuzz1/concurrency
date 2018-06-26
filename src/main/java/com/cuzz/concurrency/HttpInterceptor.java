@@ -1,6 +1,6 @@
 package com.cuzz.concurrency;
 
-import com.cuzz.concurrency.threadLocal.RequestHolder;
+import com.cuzz.concurrency.example.threadLocal.RequestHolder;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.servlet.handler.HandlerInterceptorAdapter;
 

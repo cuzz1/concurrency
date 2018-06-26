@@ -1,4 +1,4 @@
-package com.cuzz.concurrency.threadLocal;
+package com.cuzz.concurrency.example.threadLocal;
 
 public class RequestHolder {
 

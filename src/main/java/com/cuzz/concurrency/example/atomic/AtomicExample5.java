@@ -1,11 +1,10 @@
 package com.cuzz.concurrency.example.atomic;
 
-import com.cuzz.concurrency.annoations.ThreadSafe;
+import com.cuzz.concurrency.example.annoations.ThreadSafe;
 import lombok.Getter;
 import lombok.extern.slf4j.Slf4j;
 
 import java.util.concurrent.atomic.AtomicIntegerFieldUpdater;
-import java.util.concurrent.atomic.AtomicReference;
 
 @Slf4j
 @ThreadSafe
